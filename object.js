@@ -74,6 +74,6 @@ function rentCar() {
 			midCars();
 			rentals.addRenter(rName, cType);
 			chooseCar();
-		} else alert("Pick a car, any car! Type...that is");
+		} else alert("Pick a car, any car! Type...that is!");
 	} else alert("Kindly provide your name for our records!");
 };
